@@ -1,4 +1,4 @@
-# Fillora — Real-time Visual Context Prototype
+ Real-time Visual Context Prototype
 
 This repository contains a nested hackathon project for exploring a camera-based assistant UI. The app accesses a webcam and microphone, performs browser-side face detection, presents person/context overlays, and includes voice, conversation-history, and status UI. It was built around the idea of showing contextual notifications while a camera feed is active.
 
